@@ -1,0 +1,9 @@
+nltk
+numpy
+pandas
+scipy
+wikipedia-api
+requests
+
+
+
